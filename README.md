@@ -1,10 +1,8 @@
 # Zoom-Clone
 A zoom clone or basically a web version of zoom build with node.js and socket.io. The UI is not fully functional. You can check the website in the link that follows.
 
-### Link
-
-<a>Click here to check out the website</a>
-
+## Link
+<a href="https://pure-falls-53487.herokuapp.com/13833ed7-a68e-4b97-bee5-85b3f84d79ca">Click here to check out the website</a>
 
 ## 📲 Connect with me on social media 
 <p align="left">
