@@ -1,4 +1,9 @@
 # Zoom-Clone
+A zoom clone or basically a web version of zoom build with node.js and socket.io. The UI is not fully functional. You can check the website in the link that follows.
+
+### Link
+
+<a>Click here to check out the website</a>
 
 
 ## 📲 Connect with me on social media 
